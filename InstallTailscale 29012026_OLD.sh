@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.
 
 URL="https://pkgs.tailscale.com/stable/"
 APP_MAIN_NAME=tailscale
